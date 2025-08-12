@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ```npa install react```
+
+sistema de Registro2
